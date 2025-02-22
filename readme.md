@@ -42,6 +42,7 @@ Passionate developer exploring the intersection of blockchain and artificial int
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
+
 ## 🎯 Current Focus
 
 - Developing secure and efficient smart contracts
