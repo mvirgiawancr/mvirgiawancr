@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Moch Virgiawan Caesar Ridollohi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C8CF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Smart+Contract+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C8CF7&center=true&vCenter=true&width=435&lines=;Smart+Contract+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
@@ -42,26 +42,6 @@ Passionate developer exploring the intersection of blockchain and artificial int
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvirgiawancr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvirgiawancr&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🌟 Featured Projects
-
-### Foundry ERC20
-A comprehensive implementation of ERC20 tokens using the Foundry framework, featuring advanced testing and deployment scripts.
-
-[![Foundry ERC20](https://github-readme-stats.vercel.app/api/pin/?username=mvirgiawancr&repo=foundry-lottery-smart-contract&theme=radical)](https://github.com/mvirgiawancr/foundry-lottery-smart-contract)
-
-### Portfolio Website
-My personal portfolio website showcasing my projects and skills.
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mvirgiawancr&repo=portfolio-website&theme=radical)](https://github.com/mvirgiawancr/portfolio-website)
-
 ## 🎯 Current Focus
 
 - Developing secure and efficient smart contracts
