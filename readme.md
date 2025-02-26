@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Moch Virgiawan Caesar Ridollohi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C8CF7&center=true&vCenter=true&width=435&lines=Smart+Contract+Developer+in+Training;AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C8CF7&center=true&vCenter=true&width=435&lines=Smart+Contract+Developer;AI+Explorer" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
