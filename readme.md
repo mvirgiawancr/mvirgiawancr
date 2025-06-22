@@ -1,70 +1,62 @@
-# Hi there! 👋 I'm Moch Virgiawan Caesar Ridollohi
+# Hi there, I'm [Your Name] 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C8CF7&center=true&vCenter=true&width=435&lines=Smart+Contract+Developer;AI+Explorer" alt="Typing SVG" />
-</div>
+## About Me
+I'm a Computer Science student passionate about bridging the gap between traditional web development and the decentralized future. Currently diving deep into Web3 technologies while leveraging my background in full-stack development.
 
-## 💫 About Me
+## 🚀 Current Focus
+- **Learning Solidity** - Building smart contracts and understanding blockchain fundamentals
+- **Mastering Foundry** - Exploring advanced testing and deployment frameworks
+- **Web3 Integration** - Connecting frontend applications with blockchain networks
 
-Aspiring blockchain developer passionate about learning and exploring smart contract development and artificial intelligence. Currently diving deep into the world of Web3 and AI technologies.
+## 🎯 Areas of Interest
+- **Smart Contract Security** - Vulnerability analysis and secure coding practices
+- **Smart Contract Auditing** - Code review, testing, and security assessment
+- **Ethical Hacking** - Web3 security research and responsible disclosure
+- **DeFi Security** - Understanding attack vectors and protection mechanisms
 
-- 🔭 Currently learning Smart Contract Development
-- 🌱 Exploring Solidity, Foundry, and blockchain fundamentals
-- 🤖 Studying AI/ML basics and their potential in blockchain
-- 💡 Looking to connect with other blockchain and AI learners
-- ⚡ Fun fact: Fascinated by the potential of combining AI with DeFi
+## 💻 Tech Stack
 
-## 🛠️ Tech Stack
+### Current Expertise
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
+### Web3 Journey
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Learning & Using
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/-Foundry-000000?style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Security Tools
+![Slither](https://img.shields.io/badge/Slither-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![MythX](https://img.shields.io/badge/MythX-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
 
-### Exploring AI Tools
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🌱 Learning Goals
+- Advanced Solidity patterns and gas optimization
+- Smart contract security auditing methodologies
+- Penetration testing for Web3 applications
+- Common vulnerability patterns (reentrancy, flash loans, etc.)
+- Security tools mastery (Slither, MythX, Echidna)
+- Bug bounty hunting in DeFi protocols
+- Formal verification techniques
 
-### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-</div>
+## 🤝 Let's Connect
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mvirgiawancr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mochvirgiawancr@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mvirgiawancr)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/virgiiizz)
 
-## 🎯 Current Focus
-
-- Learning blockchain fundamentals and smart contract development
-- Understanding DeFi protocols and mechanisms
-- Getting started with AI/ML basics
-- Exploring the basics of Zero-Knowledge Proofs
-- Studying Layer 2 scaling solutions
-
-## 💡 Areas of Interest
-
-- Smart Contract Development
-- Blockchain Technology
-- Artificial Intelligence & Machine Learning
-- Decentralized Finance (DeFi)
-- Zero-Knowledge Proofs
-- Layer 2 Scaling Solutions
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvirgiawancr)
-
-</div>
+## 💡 Fun Fact
+I'm passionate about making Web3 more secure for everyone. My goal is to combine my development background with security expertise to become a trusted smart contract auditor and ethical hacker, helping protect the decentralized future we're building together.
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mvirgiawancr&color=blueviolet" alt="Profile Views" />
-  
-  ### Learning and Building the Future of Blockchain & AI 🚀
-</div>
+⭐️ From [yourusername](https://github.com/mvirgiawancr)
