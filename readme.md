@@ -50,7 +50,7 @@ I'm a Computer Science student passionate about bridging the gap between traditi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvirgiawancr&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mvirgiawancr)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mvirgiawancr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mochvirgiawancr@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mvirgiawancr)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/virgiiizz)
