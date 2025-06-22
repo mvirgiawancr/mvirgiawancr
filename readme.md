@@ -47,7 +47,7 @@ I'm a Computer Science student passionate about bridging the gap between traditi
 - Formal verification techniques
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvirgiawancr&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mvirgiawancr)
@@ -59,4 +59,4 @@ I'm a Computer Science student passionate about bridging the gap between traditi
 I'm passionate about making Web3 more secure for everyone. My goal is to combine my development background with security expertise to become a trusted smart contract auditor and ethical hacker, helping protect the decentralized future we're building together.
 
 ---
-⭐️ From [yourusername](https://github.com/mvirgiawancr)
+⭐️ From mvirgiawancr(https://github.com/mvirgiawancr)
