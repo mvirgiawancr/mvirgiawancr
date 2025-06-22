@@ -59,4 +59,4 @@ I'm a Computer Science student passionate about bridging the gap between traditi
 I'm passionate about making Web3 more secure for everyone. My goal is to combine my development background with security expertise to become a trusted smart contract auditor and ethical hacker, helping protect the decentralized future we're building together.
 
 ---
-⭐️ From [![X](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=x&logoColor=white)](https://github.com/mvirgiawancr)
+⭐️ From [mvirgiawancr](https://github.com/yourusername)
