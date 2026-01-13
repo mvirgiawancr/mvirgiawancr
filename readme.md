@@ -43,15 +43,12 @@ Computer Science student with a passion for building secure decentralized applic
 
 ## 📊 Featured Projects
 
-### 🔐 Security & Auditing
-### ⚡ DeFi & Advanced Contracts
-### 🌐 Full-Stack Applications
+#### 🔐 Security & Auditing
+#### ⚡ DeFi & Advanced Contracts
+#### 🌐 Full-Stack Applications
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvirgiawancr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvirgiawancr&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvirgiawancr&theme=radical&hide_border=true)
 
